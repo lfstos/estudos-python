@@ -11,26 +11,15 @@ numeros = {
     'dez': 10
 }
 
-
-# print(type(numeros.items()))
-# print(numeros.items())
-
 # print(dict(list(numeros.items())[:3]))
 
-# print(type(numeros.items()))
-print(list(numeros.items()))
 
-numeros = (
-    ('um', 1),
-    ('dois', 2),
-    ('tres', 3),
-)
+# lista_numeros = []
+# for num in list(numeros.items()):
+#     lista_numeros.append(num)
+
+# print(dict(lista_numeros[:3]))
 
 
-
-
-# print(type(numeros))
-
-# print(dict(numeros))
-
-# print(dict(list(numeros.items())[:3]))
+lista = dict([num for num in list(numeros.items())[:3]])
+print(lista)
