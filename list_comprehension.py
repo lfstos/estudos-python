@@ -1,5 +1,6 @@
 """"
-Referencia: https://www.hashtagtreinamentos.com/list-comprehension-python?gclid=CjwKCAiAoL6eBhA3EiwAXDom5jvvHjgCqkC1AgYI5fHAFCadhAEEELt4yFKmtgur7KeTGETffTJlhhoCm8YQAvD_BwE
+Referencia: 
+https://www.hashtagtreinamentos.com/list-comprehension-python?gclid=CjwKCAiAoL6eBhA3EiwAXDom5jvvHjgCqkC1AgYI5fHAFCadhAEEELt4yFKmtgur7KeTGETffTJlhhoCm8YQAvD_BwE
 """
 
 lista_precos = [500, 1500, 2000, 100, 25]
