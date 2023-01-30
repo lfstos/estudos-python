@@ -1,3 +1,5 @@
+
+
 numeros = {
     'um': 1,
     'dois': 2,
@@ -22,4 +24,5 @@ numeros = {
 
 
 lista = dict([num for num in list(numeros.items())[:3]])
+
 print(lista)
